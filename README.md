@@ -3,5 +3,7 @@
 <h2> 🛠 Linguagens e Ferramentas:</h2>
 - Java <br>
 - POO <br>
-- intelij <br>
+- intelij<br>
+
+Atualizações em breve
 
