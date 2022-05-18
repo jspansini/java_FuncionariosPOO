@@ -7,3 +7,4 @@
 
 Atualizações em breve
 
+1src - atualização configuração gets e sets com função de calculo de salario baseado no salário hora.
